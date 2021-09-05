@@ -1,5 +1,6 @@
 # Food-Ordering-Web-App
 A multi page SPA Food Ordering Web App  with React which fetches menu from Firebase API ,add food to Cart, Input Details of Customer and send that info again to the firebase for further processing and Accepting Orders. 
+
 Following are the Functionalities:\
 1.A landing Page where Menu is shown.\
 2.Add to Cart button for every dish.\
